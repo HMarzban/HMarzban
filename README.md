@@ -24,3 +24,10 @@ Welcome to my space! I'm a passionate developer thriving at the intersection of 
 
 <p align="left"> <a href="https://www.github.com/HMarzban" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/mhossein_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
+
+
+### Let's play a game 🎮
+
+<a href="https://hmarzban.github.io/fusegrid/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HMarzban/fusegrid/main/media/play.gif" width="420" alt="Fusegrid — a bomb-grid arcade you can play in the browser" /></a>
+
+**[▶ Play Fusegrid in your browser](https://hmarzban.github.io/fusegrid/)** — a single-player bomb-grid arcade I built from scratch: flip between REAL 3D and CLASSIC 2D, climb the CORE / PLUS / MAX heat. No install, no login, works offline. WASD or arrows to move · Space to drop a bomb.
