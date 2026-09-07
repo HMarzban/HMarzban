@@ -26,8 +26,6 @@ Welcome to my space! I'm a passionate developer thriving at the intersection of 
 
 
 
-### Let's play a game 🎮
+### Let's play a game
 
-<a href="https://hmarzban.github.io/fusegrid/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HMarzban/fusegrid/main/media/play.gif" width="420" alt="Fusegrid — a bomb-grid arcade you can play in the browser" /></a>
-
-**[▶ Play Fusegrid in your browser](https://hmarzban.github.io/fusegrid/)** — a single-player bomb-grid arcade I built from scratch: flip between REAL 3D and CLASSIC 2D, climb the CORE / PLUS / MAX heat. No install, no login, works offline. WASD or arrows to move · Space to drop a bomb.
+<a href="https://hmarzban.github.io/fusegrid/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HMarzban/fusegrid/main/icon-512.png" width="96" height="96" alt="Fusegrid" /></a>
