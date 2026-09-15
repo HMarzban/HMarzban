@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hossein
 ===============================================================================================================================
 
-Software Engineer
-Welcome to my space! I'm a passionate developer thriving at the intersection of technology and creativity. Here's a bit about me:
+Full-stack engineer
+I work on the product people actually use. If a model helps us ship the next version cleaner, I use it.
 
-- 🌍 Based In: BorderLand
-- ✉️ Reach Me At: marzban98@gmail.com
-- 🚀 Current Endeavor: Enhancing docs.plus
-- 🧠 Expanding My Knowledge In: Vim, Supabase, Elixir, Zig
-- 🤝 Keen On Collaborating: Open-source projects involving CRDTs
-- ⚡ Passionate About: Offline mode applications; let's build together!
+- 🌍 Based in: BorderLand
+- ✉️ Reach me: marzban98@gmail.com
+- 🧠 Learning: Elixir, Zig
+- 🤝 Open to: real-time, local-first, and CRDT work
 
 
 ### Skills
@@ -22,7 +20,7 @@ Welcome to my space! I'm a passionate developer thriving at the intersection of 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/HMarzban" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/mhossein_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/HMarzban" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> </picture> </a> <a href="https://www.x.com/mhossein_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X" /> </picture> </a> <a href="mailto:marzban98@gmail.com"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/ffffff" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/000000" /> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email marzban98@gmail.com" /> </picture> </a></p>
 
 
 
