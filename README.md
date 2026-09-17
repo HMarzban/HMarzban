@@ -12,12 +12,6 @@ I like working through the details that make a product useful: how people edit t
 
 I've also built a [DaisyUI theme and installer](https://github.com/HMarzban/daisyui-matsu-theme) and a [Notion-style avatar editor](https://github.com/HMarzban/notion-avatar-generator). [Earlier projects](EARLIER-WORK.md) include a small SPA framework, calendar tools, and a Raspberry Pi mirror.
 
-### Open-source contributions
-
-- **[Etherpad](https://github.com/ether/etherpad/pull/6152):** migrated Socket.IO from v2 to v3 and worked through compatibility issues with the maintainers.
-- **[Mozilla Add-ons](https://github.com/mozilla/addons-frontend/pull/6890):** fixed a responsive card styling issue.
-- **[Liara CLI](https://github.com/liara-cloud/cli/pull/4):** added support for an API-token command option.
-
 ### Skills
 
 My current focus is **TypeScript and JavaScript, React and Next.js, collaborative editing with Tiptap / ProseMirror / Hocuspocus / Yjs, and Node.js services**. I use automated tests and CI to check changes before shipping them.
@@ -101,5 +95,7 @@ Elixir and Zig.
 ### Get in touch
 
 I'm open to work on real-time, local-first, and collaborative applications.
+
+Earlier contributions: [Etherpad](https://github.com/ether/etherpad/pull/6152) · [Mozilla Add-ons](https://github.com/mozilla/addons-frontend/pull/6890) · [Liara CLI](https://github.com/liara-cloud/cli/pull/4).
 
 [Email](mailto:marzban98@gmail.com) · [X](https://x.com/mhossein_)
