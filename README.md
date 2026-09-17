@@ -75,6 +75,8 @@ My current focus is **TypeScript and JavaScript, React and Next.js, collaborativ
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" title="Git" alt="Git" /></a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" title="Figma" alt="Figma" /></a>
       <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" title="MacOS" alt="MacOS" /></a>
+      <br />
+      <a href="https://pnpm.io/">pnpm</a> · <a href="https://bun.sh/">Bun</a> · <a href="https://yarnpkg.com/">Yarn</a>
     </td>
   </tr>
   <tr>
