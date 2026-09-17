@@ -1,103 +1,54 @@
-# Hi, I'm Harvey
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile-signature/dark-still.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-signature/light-still.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-signature/dark.gif" />
+  <img src="assets/profile-signature/light.gif" alt="Harvey" width="280" height="85" />
+</picture>
 
-I build web apps and developer tools. Much of my recent work is in collaborative editing and real-time systems, using TypeScript, Tiptap, ProseMirror, and Yjs.
+I build web apps and developer tools. Lately, I’ve been working on collaborative editors and spending a lot of time on how the interface feels.
 
-I like working through the details that make a product useful: how people edit together, what happens when a connection drops, and how to test and ship changes with confidence.
+### 01 — Editing together
 
-### Selected work
+[Editor playground](https://hmarzban.github.io/tiptap-editor-demo/) · [docs.plus](https://docs.plus)
 
-- **[Tiptap editor demo](https://github.com/HMarzban/tiptap-editor-demo)** — A small editor for trying link editing, themes, and collaboration between browser tabs. [Try it](https://hmarzban.github.io/tiptap-editor-demo/).
-- **[docs.plus](https://github.com/docs-plus/docs.plus)** — A collaborative document editor I contribute to, with work across editor extensions, real-time collaboration, and deployment. [Use it](https://docs.plus) · [Engineering case study](case-studies/docs-plus-builds.md).
-- **[Fusegrid](https://github.com/HMarzban/fusegrid)** — A browser game with a deterministic simulation, replay tests, and separate 2D and 3D renderers. [Play it](https://hmarzban.github.io/fusegrid/).
+A playground for links, themes, and shared text. I also contribute editor extensions and real-time collaboration to docs.plus. [Build notes](case-studies/docs-plus-builds.md).
 
-I've also built a [DaisyUI theme and installer](https://github.com/HMarzban/daisyui-matsu-theme) and a [Notion-style avatar editor](https://github.com/HMarzban/notion-avatar-generator). [Earlier projects](EARLIER-WORK.md) include a small SPA framework, calendar tools, and a Raspberry Pi mirror.
+### 02 — Interface experiments
 
-### Skills
+[Matsu theme](https://hmarzban.github.io/daisyui-matsu-theme/) · [Avatar maker](https://hmarzban.github.io/notion-avatar-generator/)
 
-My current focus is **TypeScript and JavaScript, React and Next.js, collaborative editing with Tiptap / ProseMirror / Hocuspocus / Yjs, and Node.js services**. I use automated tests and CI to check changes before shipping them.
+Matsu adds paper textures and warm colors to DaisyUI. The avatar maker lets you choose parts from DrawKit’s artwork and export the result.
+
+### 03 — Something to play
+
+[Fusegrid](https://hmarzban.github.io/fusegrid/)
+
+A browser arcade game with 2D and 3D views of the same simulation.
+
+### Skills & tools
+
+| Area | What I work with |
+| :--- | :--- |
+| Languages | JavaScript, TypeScript |
+| Interfaces | React, Next.js, Tailwind CSS |
+| Collaborative editing | Tiptap, ProseMirror, Hocuspocus, Yjs |
+| Backend | Node.js, PostgreSQL, Supabase |
+| Tools | Git, Docker, pnpm, Bun, Yarn, Figma |
 
 <details>
-<summary>More tools I've worked with</summary>
+<summary>More tools I’ve worked with</summary>
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript" alt="JavaScript" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" title="TypeScript" alt="TypeScript" /></a>
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" title="PHP" alt="PHP" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" alt="HTML5" /></a>
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" title="CSS3" alt="CSS3" /></a>
-      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" title="Sass" alt="Sass" /></a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" title="TailwindCSS" alt="TailwindCSS" /></a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="React" alt="React" /></a>
-      <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" title="NextJs" alt="NextJs" /></a>
-      <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" title="JQuery" alt="JQuery" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Collaborative editing</strong></td>
-    <td>
-      <a href="https://tiptap.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/645a9acecda2e0594fac6126/657b06d9fe0642a8d7efeabc_tiptap_webclip.png" width="36" height="36" alt="Tiptap" title="Tiptap" /></a>
-      <a href="https://tiptap.dev/docs/hocuspocus/getting-started/overview" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hocuspocus-18181B?style=flat-square" height="36" alt="Hocuspocus" title="Hocuspocus" /></a>
-      <a href="https://yjs.dev/" target="_blank" rel="noreferrer"><img src="https://yjs.dev/icon.svg" width="30" height="36" alt="Yjs" title="Yjs" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend &amp; data</strong></td>
-    <td>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" title="NodeJS" alt="NodeJS" /></a>
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" title="Express" alt="Express" /></a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" title="Laravel" alt="Laravel" /></a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" title="MongoDB" alt="MongoDB" /></a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" title="MySQL" alt="MySQL" /></a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" title="PostgreSQL" alt="PostgreSQL" /></a>
-      <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" title="Appwrite" alt="Appwrite" /></a>
-      <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" title="Supabase" alt="Supabase" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud &amp; deployment</strong></td>
-    <td>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" title="Docker" alt="Docker" /></a>
-      <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" title="Digital Ocean" alt="Digital Ocean" /></a>
-      <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" title="Heroku" alt="Heroku" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" title="Git" alt="Git" /></a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" title="Figma" alt="Figma" /></a>
-      <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" title="MacOS" alt="MacOS" /></a>
-      <br />
-      <a href="https://pnpm.io/">pnpm</a> · <a href="https://bun.sh/">Bun</a> · <a href="https://yarnpkg.com/">Yarn</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Hardware</strong></td>
-    <td>
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" title="Arduino" alt="Arduino" /></a>
-      <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" title="Raspberry Pi" alt="Raspberry Pi" /></a>
-    </td>
-  </tr>
-</table>
+| Area | Tools |
+| :--- | :--- |
+| Web | HTML, CSS, Sass, jQuery |
+| Backend & data | PHP, Express, Laravel, MongoDB, MySQL, Appwrite |
+| Deployment | DigitalOcean, Heroku |
+| Hardware & OS | Arduino, Raspberry Pi, macOS |
 
 </details>
 
-### What I'm learning
+Learning **Elixir and Zig**. Open to work on real-time, local-first, and collaborative applications.
 
-Elixir and Zig.
-
-### Get in touch
-
-I'm open to work on real-time, local-first, and collaborative applications.
-
-Earlier contributions: [Etherpad](https://github.com/ether/etherpad/pull/6152) · [Mozilla Add-ons](https://github.com/mozilla/addons-frontend/pull/6890) · [Liara CLI](https://github.com/liara-cloud/cli/pull/4).
+Earlier contributions: [Etherpad](https://github.com/ether/etherpad/pull/6152), [Mozilla](https://github.com/mozilla/addons-frontend/pull/6890), [Liara](https://github.com/liara-cloud/cli/pull/4). [Earlier projects](EARLIER-WORK.md).
 
 [Email](mailto:marzban98@gmail.com) · [X](https://x.com/mhossein_)
