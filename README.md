@@ -1,57 +1,26 @@
 # Hi, I'm Harvey
 
-I build web apps and developer tools, and spend a lot of time on the interface. Recently, that’s meant collaborative editors, a DaisyUI theme, an avatar maker, and a browser game.
+I build web apps and developer tools. Much of my recent work is in collaborative editing and real-time systems, using TypeScript, Tiptap, ProseMirror, and Yjs.
 
-### Matsu
+I like working through the details that make a product useful: how people edit together, what happens when a connection drops, and how to test and ship changes with confidence.
 
-Warm colors, paper texture, and DaisyUI components. I built the component demo and installer around the Matsu theme.
+### Selected work
 
-[![Matsu component demo with warm colors, textured surfaces, and olive controls](assets/profile/matsu-components.png)](https://hmarzban.github.io/daisyui-matsu-theme/)
+- **[Tiptap editor demo](https://github.com/HMarzban/tiptap-editor-demo)** — A small editor for trying link editing, themes, and collaboration between browser tabs. [Try it](https://hmarzban.github.io/tiptap-editor-demo/).
+- **[docs.plus](https://github.com/docs-plus/docs.plus)** — A collaborative document editor I contribute to, with work across editor extensions, real-time collaboration, and deployment. [Use it](https://docs.plus) · [Engineering case study](case-studies/docs-plus-builds.md).
+- **[Fusegrid](https://github.com/HMarzban/fusegrid)** — A browser game with a deterministic simulation, replay tests, and separate 2D and 3D renderers. [Play it](https://hmarzban.github.io/fusegrid/).
 
-[Explore the theme](https://hmarzban.github.io/daisyui-matsu-theme/) · [Source](https://github.com/HMarzban/daisyui-matsu-theme)
+I've also built a [DaisyUI theme and installer](https://github.com/HMarzban/daisyui-matsu-theme) and a [Notion-style avatar editor](https://github.com/HMarzban/notion-avatar-generator). [Earlier projects](EARLIER-WORK.md) include a small SPA framework, calendar tools, and a Raspberry Pi mirror.
 
-### Editor playground
+### Open-source contributions
 
-An editor for trying link editing, themes, and collaboration. Open it in two browser tabs to try the sync.
+- **[Etherpad](https://github.com/ether/etherpad/pull/6152):** migrated Socket.IO from v2 to v3 and worked through compatibility issues with the maintainers.
+- **[Mozilla Add-ons](https://github.com/mozilla/addons-frontend/pull/6890):** fixed a responsive card styling issue.
+- **[Liara CLI](https://github.com/liara-cloud/cli/pull/4):** added support for an API-token command option.
 
-<a href="https://hmarzban.github.io/tiptap-editor-demo/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/tiptap-editor-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile/tiptap-editor-light.png" />
-    <img src="assets/profile/tiptap-editor-light.png" alt="Tiptap editor with a selected link and its editing controls" width="840" />
-  </picture>
-</a>
+### Skills
 
-[Try the editor](https://hmarzban.github.io/tiptap-editor-demo/) · [Source](https://github.com/HMarzban/tiptap-editor-demo)
-
-### Avatar maker
-
-Pick the parts, change the background, and download an avatar. The artwork is from DrawKit; I built the editor around it.
-
-<a href="https://hmarzban.github.io/notion-avatar-generator/"><img src="assets/profile/avatar-maker.png" alt="A completed avatar alongside the parts and background controls" width="620" /></a>
-
-[Make an avatar](https://hmarzban.github.io/notion-avatar-generator/) · [Source](https://github.com/HMarzban/notion-avatar-generator)
-
-### Fusegrid
-
-A browser arcade game with 2D and 3D views of the same simulation.
-
-<a href="https://hmarzban.github.io/fusegrid/">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/fusegrid-still.png" />
-    <img src="assets/profile/fusegrid-gameplay.gif" alt="Fusegrid preview: the player plants a bomb, retreats, and advances through a cleared path" width="500" />
-  </picture>
-</a>
-
-[Play](https://hmarzban.github.io/fusegrid/) · [Source](https://github.com/HMarzban/fusegrid) · [Still preview](assets/profile/fusegrid-still.png)
-
-### Ongoing work
-
-I contribute to **[docs.plus](https://github.com/docs-plus/docs.plus)**, a collaborative document editor, working on editor extensions, real-time behavior, and deployment. [Open docs.plus](https://docs.plus) · [Smaller images, faster builds](case-studies/docs-plus-builds.md).
-
-### Tools I use
-
-Mostly TypeScript, React, Node.js, and collaborative editing with Tiptap, ProseMirror, Hocuspocus, and Yjs. Learning Elixir and Zig.
+My current focus is **TypeScript and JavaScript, React and Next.js, collaborative editing with Tiptap / ProseMirror / Hocuspocus / Yjs, and Node.js services**. I use automated tests and CI to check changes before shipping them.
 
 <details>
 <summary>More tools I've worked with</summary>
@@ -125,6 +94,12 @@ Mostly TypeScript, React, Node.js, and collaborative editing with Tiptap, ProseM
 
 </details>
 
-Earlier contributions: [Etherpad](https://github.com/ether/etherpad/pull/6152) · [Mozilla Add-ons](https://github.com/mozilla/addons-frontend/pull/6890) · [Liara CLI](https://github.com/liara-cloud/cli/pull/4). [Earlier projects](EARLIER-WORK.md).
+### What I'm learning
+
+Elixir and Zig.
+
+### Get in touch
+
+I'm open to work on real-time, local-first, and collaborative applications.
 
 [Email](mailto:marzban98@gmail.com) · [X](https://x.com/mhossein_)
